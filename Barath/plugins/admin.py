@@ -155,7 +155,8 @@ __help__ = """
 - del: to delete 1msg
 - ban: to ban member
 - unban: to unban member
-- pin/unpin: pin/unpin hc msgs
+- pin: pin a message
+- unpin: unpin a message
 - invite: kidnap someone 
 """  
     
